@@ -24,4 +24,4 @@ st.write("The Gesture-Controlled Video system is rooted in a Random Forest model
 st.image(video)
 
 st.write("### Acknowledgements & Further Exploration")
-st.markdown("I'd like to extend my heartfelt thanks to [Murtaza's Workshop](https://www.youtube.com/watch?v=8gPONnGIPgw&t=321) for being the foundational guide during the construction of these systems. For those intrigued by the code and training aspects of this project, I invite you to dive deeper into my [GitHub](Your GitHub Link).")
+st.markdown("I'd like to extend my heartfelt thanks to [Murtaza's Workshop](https://www.youtube.com/watch?v=8gPONnGIPgw&t=321) for being the foundational guide during the construction of these systems. For those intrigued by the code and training aspects of this project, I invite you to dive deeper into my [GitHub](https://github.com/ICLiu30/Air-Mouse-Gesture-Controlled-Video-Systems).")
