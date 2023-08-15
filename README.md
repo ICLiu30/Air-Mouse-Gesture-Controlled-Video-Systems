@@ -1,16 +1,13 @@
 # Air-Mouse-Gesture-Controlled-Video-Systems
 
-## Brief Description
-(Your brief project introduction goes here.)
-
 ## Demos
 
 ### Air Mouse Functionality:
-(Your brief description of this feature here.)
+In constructing the Air Mouse system, a combination of tools including MediaPipe, OpenCV, and PyAutoGUI were employed. With these technologies at its core, the system adeptly recognizes and responds to finger movements, making actions like scrolling, clicking, and cursor navigation fluid and intuitive. Beyond these traditional functions, the inclusion of speech recognition technology also empowers users to articulate words, which the system then dutifully types out, minimizing the need for manual text input.
 ![Mouse Functionality Demo](GIF/Mouse.gif)
 
 ### Gesture-Controlled Video:
-(Your brief description of this feature here.)
+For the Gesture-Controlled Video aspect, the foundation lies in the capabilities of the Random Forest model. This model has been trained to discern various hand gestures, effectively translating them into actionable video commands. From fast-forwarding and rewinding to initiating a pause or adjusting the volume, the system comprehends a user's every gesture, optimizing the video-watching experience.
 ![Gesture-Controlled Video Demo](GIF/Video.gif)
 
 ## Files Description
